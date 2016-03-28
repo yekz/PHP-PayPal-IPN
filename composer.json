@@ -1,0 +1,12 @@
+{
+	"name": "yekz/PHP-PayPal-IPN",
+	"description": "PHP-PayPal-IPN",
+	"keywords": ["Paypal"],
+	"license": "MIT",
+	"require": {
+		"php": ">=5.3.0"
+	},
+	"autoload": {
+		"files": ["ipnlistener.php"]
+	}
+}
